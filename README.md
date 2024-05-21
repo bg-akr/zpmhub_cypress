@@ -1,1 +1,1 @@
-# zpmhub_cypress
+e2e tests for ZpmHub project
